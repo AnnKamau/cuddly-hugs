@@ -364,19 +364,19 @@ section{
     font-size: 1.5rem;
 }
 
-.review .box-container{
+.reviews .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
     gap: 1.5rem;
 }
 
-.review .box-container .box{
+.reviews .box-container .box{
    border: var(--border);
    text-align: center;
    padding: 3rem 2rem; 
 }
 
-.review .box-container .box p{
+.reviews .box-container .box p{
     font-size: 1.5rem;
     line-height: 1.8;
     color: #ccc;
