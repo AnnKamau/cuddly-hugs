@@ -208,7 +208,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(./images/home2.png) no-repeat;
+    background: url(./images/home4.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -217,10 +217,10 @@ section{
     max-width: 60rem;
 }
 
-.home .content h3{
-    font-size: 6rem;
+.home .content h3 {
+    font-size: 4rem;
     text-transform: uppercase;
-    color: #eee;
+    color: #101010;
 }
 
 .home .content p{
