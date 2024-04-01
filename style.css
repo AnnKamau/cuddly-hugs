@@ -593,7 +593,7 @@ section{
         display: inline-block;
     }
 
-    .header .navbar{
+.navbar{
         position: absolute;
         top: 100%; right: -100%;
         background: #fff;
