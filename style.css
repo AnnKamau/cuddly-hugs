@@ -338,8 +338,12 @@ section{
     padding: 2.5rem 0;
 }
 
-.products .box-container .box .image img{
-    height: 25rem;
+.products .box-container .box .image img {
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    object-fit: cover;
+    object-position: top;
 }
 
 .products .box-container .box .content h3{
