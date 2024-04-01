@@ -275,8 +275,11 @@ section{
     border: var(--border);
 }
 
-.menu .box-container .box img{
-    height: 10rem;
+.menu .box-container .box img {
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    object-fit: cover;
 }
 
 .menu .box-container .box h3{
