@@ -1,14 +1,14 @@
 # Cuddly Hugs
 
-Welcome to the Cuddly Hugs teddy bear portfolio website, where warmth and comfort meet creativity. Our mission is to showcase a delightful collection of handcrafted teddy bears, each with its own unique story and personality.
+Welcome to the Cuddly Hugs teddy bear portfolio website, where warmth and comfort meet creativity. Our mission is to showcase a delightful collection of handcrafted teddy bears, each with its own unique story and personality. 
 
 ## Introduction
 
 Cuddly Hugs is more than just a portfolio; it's a journey through the art of teddy bear making. Visit our deployed site to see our cuddly creations in action: Cuddly Hugs Live
 
-Read about our adventures in teddy bear creation on our blog: Cuddly Hugs Blog
+Many people have a special place in their hearts for teddy bears because they represent coziness, nostalgia, and friendship. In order to provide a pleasurable user experience, this proposal seeks to provide an innovative online platform where users may purchase their own teddy bears, encouraging connection and personalization.
 
-Connect with our creator, Author's LinkedIn
+Connect with our creator, 
 
 ## Installation
 
