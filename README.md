@@ -24,17 +24,6 @@ Architecture: The architecture is modular, separating concerns for maintainabili
 
 
 
-
-
-![image](https://github.com/AnnKamau/cuddly-hugs/assets/137866952/c03c2bf5-47e6-4771-9028-4347a02b5357)
-
-
-
-
-
-
-
-
 SCREENSHOT.
 ![Screenshot](https://github.com/AnnKamau/cuddly-hugs/assets/137866952/cede081e-b26d-45d3-807f-113c8ffc2356)
 
