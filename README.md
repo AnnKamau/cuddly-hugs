@@ -8,48 +8,12 @@ Cuddly Hugs is more than just a portfolio; it's a journey through the art of ted
 
 Many people have a special place in their hearts for teddy bears because they represent coziness, nostalgia, and friendship. In order to provide a pleasurable user experience, this proposal seeks to provide an innovative online platform where users may purchase their own teddy bears, encouraging connection and personalization.
 
-Connect with our creator, 
+## TECHNOLOGY USED.
 
-## Installation
+HTML (Hyper-Text Markup Language): The backbone of the website, HTML provides the essential structure. I used semantic HTML elements to create a clean, organized content hierarchy, making it accessible and SEO-friendly.
+CSS (Cascading Style Sheets): With CSS, I introduced elegance and responsiveness to the design. Utilizing Flexbox and Grid systems, I  crafted a fluid layout that adapts to various screen sizes. CSS animations were applied to enhance the user interaction, giving life to button hovers.
+![image](https://github.com/AnnKamau/cuddly-hugs/assets/137866952/c03c2bf5-47e6-4771-9028-4347a02b5357)
 
-To set up your own version of the website:
-
-1. Clone the repository:
-
-git clone https://github.com/yourusername/cuddly-hugs.git
-
-2. Navigate to the project directory:
-
-cd cuddly-hugs
-
-3. Install dependencies:
-
-npm install
-
-
-## Usage
-
-To start the website locally:
-
-
-npm start
-
-
-Navigate to `http://localhost:3000` to view it in the browser.
-
-## Contributing
-
-Interested in contributing to Cuddly Hugs? We welcome contributions of all kinds. Please read our Contributing Guidelines for more information on how to get started.
-
-## Related Projects
-
-Check out these related projects that inspire us:
-- Teddy Bear Artists
-- Bear Hugs Foundation
-
-## Licensing
-
-Cuddly Hugs is released under the MIT License. See LICENSE for details.
 
 
 
