@@ -12,6 +12,20 @@ Many people have a special place in their hearts for teddy bears because they re
 
 HTML (Hyper-Text Markup Language): The backbone of the website, HTML provides the essential structure. I used semantic HTML elements to create a clean, organized content hierarchy, making it accessible and SEO-friendly.
 CSS (Cascading Style Sheets): With CSS, I introduced elegance and responsiveness to the design. Utilizing Flexbox and Grid systems, I  crafted a fluid layout that adapts to various screen sizes. CSS animations were applied to enhance the user interaction, giving life to button hovers.
+JavaScript (JS): JavaScript brought the teddy bears to life. Allowing users to select different colors and sizes of the teddy bear.
+Architecture: The architecture is modular, separating concerns for maintainability and scalability. The front end interacts with a RESTful API, fetching data about teddy bears. I ensured cross-browser compatibility and used progressive enhancement strategies to provide a core experience for users with older browsers while enabling richer features for those with modern browsers.
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/AnnKamau/cuddly-hugs/assets/137866952/c03c2bf5-47e6-4771-9028-4347a02b5357)
 
 
